@@ -1,5 +1,6 @@
 package com.javaintegration
 
+<<<<<<< HEAD
 package de.mackaz
 
 object App {
@@ -8,4 +9,3 @@ object App {
 
   def helloJava(): String = "Hello from Scala!"
 }
-
